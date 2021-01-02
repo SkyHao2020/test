@@ -1,4 +1,4 @@
-spunk = { "This server was invaded by Fedral 9999",
+apunk = { "This server was invaded by Fedral 9999",
 "MoonSec is a cool obfuscator - Federal 9999",
 "Get arrested no more legit players!",
 "Fe Retard",
